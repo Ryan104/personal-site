@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Ryan D Elliott
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Web & Mobile App Developer
+logo: logo-photo.png
 search: true
 url: http://localhost:4000
 
@@ -36,16 +36,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Ryan Elliott
+  avatar: logo-photo.png
+  email: ryan.d.elliott@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: ryane104
+  facebook: ryanelliott104
+  github: ryan104
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: ryan-elliott-104
+  instagram: peace.in.solitude
   flickr: #username
   tumblr: #username
   pinterest: #username
