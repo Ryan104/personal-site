@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Ryan D Elliott
-excerpt: "Ryan D. Elliott Resume"
+title: Resume
+excerpt: "My Resume"
 modified: 2017-09-08T10:30:38.564948-07:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Ryan D. Elliott
